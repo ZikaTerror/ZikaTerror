@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zka
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning C
-- 📫 How to reach me Zka#2051 (discord)
+- 👋 Hi, I’m Zetka
+- 👀 I’m interested in programing/Cyber-Security
+- 🌱 I’m currently learning Java and Hacking
+- 📫 How to reach me Zka#7739 (discord)
 
 <!---
 ZikaTerror/ZikaTerror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
